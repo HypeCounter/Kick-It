@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/Titulo.unity
+    guid: 37acfc4e8e7dba7439158378b1a7feaf
+  - enabled: 1
+    path: Assets/Cenas/Level_Setup.unity
+    guid: f53dcbfcc4876e140af7172e99a56f2d
+  - enabled: 1
+    path: Assets/Cenas/Shop.unity
+    guid: fa6cfa4bc95ac114e8dddd469bb5cdb3
+  - enabled: 1
+    path: Assets/Cenas/Level1.unity
+    guid: 1c7d8fb451c4145479f749a6633eab7a
+  - enabled: 1
+    path: Assets/Cenas/Level2.unity
+    guid: bf33ea77297e0494090667c00838bff1
+  - enabled: 1
+    path: Assets/Cenas/Level3.unity
+    guid: aaf1be18c9c0fbc4d980c6fda2f78c71
+  - enabled: 1
+    path: Assets/Cenas/Level4.unity
+    guid: d35525babbb032e4b9969e23a8e90087
+  - enabled: 1
+    path: Assets/Cenas/Level5.unity
+    guid: 303598e52501e434c988f7eff8f18d36
+  - enabled: 1
+    path: Assets/Cenas/Level6.unity
+    guid: dce37b5eb1ee964489a4c45a76571fa1
+  - enabled: 1
+    path: Assets/Cenas/Level7.unity
+    guid: b01b60c7c9d44c84c987e03941f17e79
+  - enabled: 1
+    path: Assets/Cenas/Level8.unity
+    guid: b60a2d32fe4f9c54091aaf2ca11e9e5e
+  - enabled: 1
+    path: Assets/Cenas/Level9.unity
+    guid: 308aa39fdf15d594b999bdc778f9789b
+  - enabled: 1
+    path: Assets/Cenas/Level10.unity
+    guid: 5a913b03eb48aaf4e933db2ad11ffba9
+  - enabled: 1
+    path: Assets/Cenas/Level11.unity
+    guid: 013875a1b1e9c6347918f0eaeaf00b09
+  - enabled: 1
+    path: Assets/Cenas/Level12.unity
+    guid: f89e9c1c0c9d8824cbbd02655893fcd1
+  - enabled: 1
+    path: Assets/Cenas/Level13.unity
+    guid: ab4ac8ca1b78bd6469a084be2f4d19c7
+  - enabled: 1
+    path: Assets/Cenas/Level14.unity
+    guid: 7f8b8aa8ca6b9464491f740795728549
+  - enabled: 1
+    path: Assets/Cenas/Level15.unity
+    guid: 750d9361f1a197d489f64fd093a72c58
+  - enabled: 1
+    path: Assets/Cenas/Level16.unity
+    guid: ea4dc2c0a1fc7b946ae3d124dd23d2ff
+  - enabled: 1
+    path: Assets/Cenas/Level17.unity
+    guid: 80566a99037dff949a7a5bb8fa83cb5d
+  - enabled: 1
+    path: Assets/Cenas/Level18.unity
+    guid: c6882d19e037eb241bd9b4a7bd4972fc
+  - enabled: 1
+    path: Assets/Cenas/Level19.unity
+    guid: a9ee7a5c879c4f34e8cd269da0b37e92
+  - enabled: 1
+    path: Assets/Cenas/Level20.unity
+    guid: c71dde479aa62fe4a80e150b72fe9641
+  - enabled: 1
+    path: Assets/Cenas/Level21.unity
+    guid: da333ea9fb565c5438962b9f31c99291
+  - enabled: 1
+    path: Assets/Cenas/Level22.unity
+    guid: 20609f086e4e9b34c9d3c739568c80c0
+  - enabled: 1
+    path: Assets/Cenas/Level23.unity
+    guid: fb7b46d9466c0b74a9ae3888b931fb34
+  - enabled: 1
+    path: Assets/Cenas/Level24.unity
+    guid: f61aef6beefbe844b8220d886bd02312
+  - enabled: 1
+    path: Assets/Cenas/Final.unity
+    guid: a7602833d2e0bd5418fa3a63295d0118
